@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "this is a great stream.",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "here another stream",
+      "id": 2
+    },
+    {
+      "title": "Me streaming component reuse",
+      "description": "patched :)",
+      "id": 4
+    },
+    {
+      "title": "Testing React Final Form",
+      "description": "Does it work? Yes it did !",
+      "userId": "111754678721964221751",
+      "id": 5
+    }
+  ]
+}
